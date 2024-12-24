@@ -1,0 +1,11 @@
+PASTE THIS INTO THE TERMINAL -      npm create vite@latest   
+
+CHOOSE THIS 
+√ Project name: ...  project_one
+√ Select a framework: » React
+√ Select a variant: » JavaScript
+
+ Now run:
+  cd project_one
+  npm install
+  npm run dev  -- GIVES LOCALHOST LINK PASTE LINK INTO THE BROWSER
