@@ -9,3 +9,8 @@ CHOOSE THIS
   cd project_one
   npm install
   npm run dev  -- GIVES LOCALHOST LINK PASTE LINK INTO THE BROWSER
+
+
+
+PS C:\Users\om\Desktop\React> cd .\project_one\
+PS C:\Users\om\Desktop\React\project_one> 
